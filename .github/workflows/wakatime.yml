@@ -29,4 +29,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "False"
-          SHOW_TIMEZONE: "True"
+          SHOW_TIMEZONE: "False"

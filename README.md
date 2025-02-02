@@ -1,7 +1,4 @@
 <h1 align="left">こんにちは 👋</h1>
-<p align="left">
-	私は42の学校の生徒です。<a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr</a> にてご連絡下さい。<br>
-</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2037%20mins-blue)

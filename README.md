@@ -1,4 +1,4 @@
-<h1 align="left">こんにちは 👋</h1>
+<h1 align="left">Hello 👋</h1>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%2015%20mins-blue)

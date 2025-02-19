@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C117%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C116%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-156.5%20thousand%20lines%20of%20code-blue)
 
@@ -56,7 +56,7 @@ Mac                      9 hrs 36 mins       ██████████░�
 ```
 
 
- Last Updated on 18/02/2025 18:12:55 UTC
+ Last Updated on 19/02/2025 00:40:36 UTC
 <!--END_SECTION:waka-->
 
 <br clear="both">

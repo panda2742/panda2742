@@ -2,7 +2,7 @@
 <a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/student/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C157%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C154%20hrs-blue)
 
 **I'm an Early 🐤** 
 
@@ -52,7 +52,7 @@ Mac                      2 hrs               ██░░░░░░░░░�
 ```
 
 
- Last Updated on 28/02/2025 19:56:32 UTC
+ Last Updated on 01/03/2025 00:45:12 UTC
 <!--END_SECTION:waka-->
 
 <br clear="both">

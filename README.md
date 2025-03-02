@@ -1,6 +1,9 @@
 <h1 align="left">Hello 👋</h1>
 <a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/student/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 
+<details>
+<summary>Wanna see cool stats?</summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%2025%20mins-blue)
 
@@ -55,6 +58,7 @@ Mac                      3 hrs 51 mins       ███░░░░░░░░�
 
  Last Updated on 02/03/2025 06:12:03 UTC
 <!--END_SECTION:waka-->
+</details>
 
 <br clear="both">
 <div align="left">

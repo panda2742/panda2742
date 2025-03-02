@@ -1,8 +1,34 @@
-<h1 align="left">Hello 👋</h1>
 <a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/student/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
+<img src="https://komarev.com/ghpvc/?username=panda2742&label=Profile%20views&color=0e75b6&style=flat" alt="panda2742" />
+
+<h1 align="center">Hi 👋, I'm Panda</h1>
+<h3 align="center">I love learning new things and coding any kind of project.</h3>
+
+- 🔭 I’m currently working on [Philosophers](https://github.com/panda2742/42-Philosophers)
+
+- 🌱 I’m currently learning **C, Bash, Go and Rust**
+
+- 👨‍💻 All of my projects are available at [https://github.com/panda2742/repositories](https://github.com/panda2742/repositories)
+
+- 💬 Ask me about **anything related to low-level; I'd love learning it with you. :)**
+
+- ⚡ Fun fact **I started with coding with JavaScript on my mobile.**
+
+<h3 align="left">Languages and Tools:</h3>
+
+<div align="left">
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,c,cpp,bots,docker,flask,python,git,go,rust,grafana,ts,postgres,vue,mongodb&theme=light" width="800px">
+		<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=bash,c,cpp,bots,docker,flask,python,git,go,rust,grafana,ts,postgres,vue,mongodb" width="800px">
+		<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,c,cpp,bots,docker,flask,python,git,go,rust,grafana,ts,postgres,vue,mongodb" width="800px">
+	</picture>
+</div>
+
+<br clear="both">
 
 <details>
-<summary>Wanna see cool stats?</summary>
+	<summary>Wanna see cool stats?</summary>
+	<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%2025%20mins-blue)
@@ -60,7 +86,6 @@ Mac                      3 hrs 51 mins       ███░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-<br clear="both">
 <div align="left">
 	<picture align="left">
 		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="800px">

@@ -67,7 +67,7 @@
 	</tr>
 	<tr>
 		<td><a href="https://github.com/panda2742/42-push_swap">42-push_swap</td>
-		<td>Sort two stacks with limited operations: sa, sb, ss, pa, pb, ra, rb, rr, rra, rrb, rrr. Do it as cheap as possible.</td>
+		<td>Sort two stacks with limited operations: <code>sa</code>, <code>sb</code>, <code>ss</code>, <code>pa</code>, <code>pb</code>, <code>ra</code>, <code>rb</code>, <code>rr</code>, <code>rra</code>, <code>rrb</code>, <code>rrr</code>. Do it as cheap as possible.</td>
 		<td>101%</td>
 		<td>C, Makefile</td>
 	</tr>

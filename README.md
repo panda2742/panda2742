@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything related to low-level; I'd love learning it with you. :)**
 
-- ⚡ Fun fact **I speak a better Japanese than my English.**
+- ⚡ Fun fact **I am learning how to speak Japanese.**
 
 <h3 align="left">Languages and Tools:</h3>
 

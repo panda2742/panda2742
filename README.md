@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=panda2742&label=Profile%20views&color=0e75b6&style=flat" alt="panda2742" />
 
 <h1 align="center">Hi 👋, I'm Panda</h1>
-<h3 align="center">I love learning new things and coding any kind of project.</h3>
+<p align="left">I love learning new things and coding any kind of project. I am really interested in system programming, kernel development, low-level programming, scripting, and many other things. I used to be a web developer for around two years before giving it up definitely. I am a 42 School student.</p>
 
 - 🔭 I’m currently working on [Philosophers](https://github.com/panda2742/42-Philosophers)
 

@@ -1,4 +1,4 @@
-<a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/Lvl 3 (06%25)/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
+<a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/Lvl 3 (23%25)/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=panda2742&label=Profile%20views&color=0e75b6&style=flat" alt="panda2742" />
 
 <h1 align="center">Hi 👋, I'm Panda</h1>
@@ -62,7 +62,7 @@
 	<tr>
 		<td><a href="https://github.com/panda2742/42-so_long">42-so_long</td>
 		<td>An ugly and funny (not really) 2D video games. Eat all the california rolls, and go to the maki one. Congrats. :)</td>
-		<td>N/A</td>
+		<td>100%</td>
 		<td>C, Makefile, XPM</td>
 	</tr>
 	<tr>

@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">What I made:</h3>
+<h3 align="center">Where are my lines of code?</h3>
 
 <table>
 	<tr>

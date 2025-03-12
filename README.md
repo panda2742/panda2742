@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available here: [./repositories](https://github.com/panda2742/repositories)
 
-- 💬 Ask me about **anything related to low-level; I'd love learning it with you. :)**
+- 💬 Ask me about **anything related to low-level; I'd love learning it too. :)**
 
 - ⚡ Fun fact **I am learning how to speak Japanese.**
 

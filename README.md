@@ -1,4 +1,4 @@
-<a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/Lvl 3 (23%25)/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
+<a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/Lvl 3 (80%25)/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=panda2742&label=Profile%20views&color=0e75b6&style=flat" alt="panda2742" />
 
 <h1 align="center">Hi 👋, I'm Panda</h1>
@@ -111,7 +111,7 @@
 	<tr>
 		<td><a href="https://github.com/panda2742/42-Philosophers">42-Philosophers</td>
 		<td>Resolving the Dining Philosophers problem with multi-threading (mutexes) first, and with forks/processes (semaphores) then.</td>
-		<td>N/A</td>
+		<td>100% ⭐️⭐️</td>
 		<td>
 			<picture align="left">
 				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">

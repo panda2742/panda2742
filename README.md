@@ -137,7 +137,7 @@
 <br clear="both">
 
 <details>
-	<summary>Wanna see cool stats?</summary>
+	<summary><h3>Click here to see magic.</h3></summary>
 	<br>
 
 <!--START_SECTION:waka-->

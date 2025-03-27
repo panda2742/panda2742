@@ -5,7 +5,7 @@
 
 <p align="left">I love learning new things and coding any kind of project. I am really interested in system programming, kernel development, low-level programming, scripting, and many other things. I used to be a web developer for around two years before giving it up definitely. I am a 42 School student.</p>
 
-- 🔭 I’m currently working on [Philosophers](https://github.com/panda2742/42-Philosophers)
+- 🔭 I’m currently working on [minishell](https://github.com/panda2742/42-minishell)
 
 - 🌱 I’m currently learning **C, Bash, Go and Rust**
 

@@ -61,7 +61,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/panda2742/42-ft_printf">42-printf</td>
+		<td><a href="https://github.com/panda2742/42-ft_printf">42-ft_printf</td>
 		<td>My personal remake of the C printf function. A lighter and simpler version.</td>
 		<td>100%</td>
 		<td>

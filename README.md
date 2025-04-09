@@ -19,9 +19,9 @@
 
 <div align="left">
 	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,c,cpp,git,go,rust,docker,grafana,postgres,mongodb,bots,vue,ts,flask,python&theme=light" width="800px">
-		<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=bash,c,cpp,git,go,rust,docker,grafana,postgres,mongodb,bots,vue,ts,flask,python" width="800px">
-		<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,c,cpp,git,go,rust,docker,grafana,postgres,mongodb,bots,vue,ts,flask,python" width="800px">
+		<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,c,cpp,git,go,rust,docker,grafana,postgres,mongodb,bots,vue,ts,flask,python" height="50px">
+		<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=bash,c,cpp,git,go,rust,docker,grafana,postgres,mongodb,bots,vue,ts,flask,python" height="50px">
+		<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,c,cpp,git,go,rust,docker,grafana,postgres,mongodb,bots,vue,ts,flask,python" height="50px">
 	</picture>
 </div>
 

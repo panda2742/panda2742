@@ -117,6 +117,18 @@
 		</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/panda2742/42-minishell">42-minishell</td>
+		<td>A reproduction of the bash environment with its command interpretation.</td>
+		<td>N/A</td>
+		<td>
+			<picture align="left">
+				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
+				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
+				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
+			</picture>
+		</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/panda2742/eidole">eidole</td>
 		<td>A full Discord bot with its associated back-end service.</td>
 		<td>-</td>

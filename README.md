@@ -119,7 +119,7 @@
 	<tr>
 		<td><a href="https://github.com/panda2742/42-minishell">42-minishell</td>
 		<td>A reproduction of the bash environment with its command interpretation.</td>
-		<td>N/A</td>
+		<td>101%</td>
 		<td>
 			<picture align="left">
 				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">

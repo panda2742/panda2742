@@ -149,7 +149,7 @@
 	<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C393%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C388%20hrs%2059%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -197,7 +197,7 @@ Linux                    15 hrs 16 mins      ███████████�
 ```
 
 
- Last Updated on 22/05/2025 18:14:01 UTC
+ Last Updated on 23/05/2025 00:46:39 UTC
 <!--END_SECTION:waka-->
 </details>
 

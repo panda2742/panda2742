@@ -149,7 +149,7 @@
 	<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C397%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C396%20hrs%2037%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -200,7 +200,7 @@ Mac                      1 hr 9 mins         █░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/05/2025 18:12:02 UTC
+ Last Updated on 26/05/2025 00:48:53 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -107,7 +107,7 @@
 	<tr>
 		<td><a href="https://github.com/panda2742/42-Philosophers">42-Philosophers</td>
 		<td>Resolving the Dining Philosophers problem with multi-threading (mutexes) first, and with forks/processes (semaphores) then.</td>
-		<td>100% ⭐️⭐️</td>
+		<td>100% ⭐️</td>
 		<td>
 			<picture align="left">
 				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">

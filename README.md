@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on C++ Modules.
 
-- 🌱 I’m currently learning **C, C++, Go and Rust**
+- 🌱 I’m currently learning **C, C++ and Rust**
 
 - 👨‍💻 All of my projects are available here: [./repositories](https://github.com/panda2742/repositories)
 

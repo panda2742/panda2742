@@ -15,10 +15,16 @@
 
 - ⚡ Fun fact **I am learning how to speak Japanese.**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages/Frameworks/Libraries:</h3>
 
 <div align="left">
-	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,c,cpp,git,go,rust,docker,grafana,postgres,mongodb,bots,vue,ts,flask,python" height="50px">
+	<img alt="github-snake" src="https://skillicons.dev/icons?i=c,cpp,css,discordjs,express,flask,html,js,nestjs,nuxtjs,py,regex,rust,sass,ts,vue&perline=50" height="50px">
+</div>
+
+<h3 align="left">Tools:</h3>
+
+<div align="left">
+	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,discord,docker,figma,git,grafana,linux,mongodb,nodejs,npm,pnpm,postgres,postman&perline=50" height="40px">
 </div>
 
 ---

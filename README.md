@@ -105,6 +105,22 @@
 		</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/panda2742/42-cpp_01">42 CPP Module 01</td>
+		<td>Let's learn C++ classes a bit more, with some zombies.</td>
+		<td>Soon</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=cpp" height="32px">
+		</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/panda2742/42-cpp_02">42 CPP Module 02</td>
+		<td>Let's dive deeper in C++ with Fixed-point numbers.</td>
+		<td>Soon</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=cpp" height="32px">
+		</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/panda2742/rustlings">rustlings</td>
 		<td>My personal progression on Rust learning exercises.</td>
 		<td>-</td>

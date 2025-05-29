@@ -37,11 +37,7 @@
 		<td>A basic C library that includes bunch of home-made functions from the standard lib. Used for our different projects at 42 School.</td>
 		<td>125%</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
 		</td>
 	</tr>
 	<tr>
@@ -49,11 +45,7 @@
 		<td>Read multiple fds at the same time, line by line.</td>
 		<td>125% ⭐️⭐️</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
 		</td>
 	</tr>
 	<tr>
@@ -61,11 +53,7 @@
 		<td>My personal remake of the C printf function. A lighter and simpler version.</td>
 		<td>100%</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
 		</td>
 	</tr>
 	<tr>
@@ -73,11 +61,7 @@
 		<td>Remake of the pipe operator's behavior in shell. Exemple: <code>./pipex infile cmd cmd outfile</code> imitates <code>< infile cmd | cmd > outfile</code>.</td>
 		<td>100% ⭐️</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
 		</td>
 	</tr>
 	<tr>
@@ -85,11 +69,7 @@
 		<td>An ugly and funny (not really) 2D video games. Eat all the california rolls, and go to the maki one. Congrats. :)</td>
 		<td>100%</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
 		</td>
 	</tr>
 	<tr>
@@ -97,11 +77,7 @@
 		<td>Sort two stacks with limited operations: <code>sa</code>, <code>sb</code>, <code>ss</code>, <code>pa</code>, <code>pb</code>, <code>ra</code>, <code>rb</code>, <code>rr</code>, <code>rra</code>, <code>rrb</code>, <code>rrr</code>. Do it as cheap as possible.</td>
 		<td>101%</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
 		</td>
 	</tr>
 	<tr>
@@ -109,11 +85,7 @@
 		<td>Resolving the Dining Philosophers problem with multi-threading (mutexes) first, and with forks/processes (semaphores) then.</td>
 		<td>100% ⭐️</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
 		</td>
 	</tr>
 	<tr>
@@ -121,18 +93,24 @@
 		<td>A reproduction of the bash environment with its command interpretation.</td>
 		<td>101%</td>
 		<td>
-			<picture align="left">
-				<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" height="32px">
-				<source media="(prefers-color-scheme: dark)" srcset="hhttps://skillicons.dev/icons?i=c" height="32px">
-				<img alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
-			</picture>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
+		</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/panda2742/42-cpp_00">42 CPP Module 00</td>
+		<td>Let's discover C++.</td>
+		<td>100%</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=cpp" height="32px">
 		</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/panda2742/rustlings">rustlings</td>
 		<td>My personal progression on Rust learning exercises.</td>
 		<td>-</td>
-		<td>Rust</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=rust" height="32px">
+		</td>
 	</tr>
 </table>
 

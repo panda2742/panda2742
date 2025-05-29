@@ -129,12 +129,6 @@
 		</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/panda2742/eidole">eidole</td>
-		<td>A full Discord bot with its associated back-end service.</td>
-		<td>-</td>
-		<td>N/A</td>
-	</tr>
-	<tr>
 		<td><a href="https://github.com/panda2742/rustlings">rustlings</td>
 		<td>My personal progression on Rust learning exercises.</td>
 		<td>-</td>

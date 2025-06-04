@@ -127,6 +127,22 @@
 		</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/panda2742/42-cpp_03">42 CPP Module 03</td>
+		<td>Inheritance? ClapTrap, ScavTrap...</td>
+		<td>Soon</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=cpp" height="32px">
+		</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/panda2742/42-cub3D">42-cub3D</td>
+		<td>Our first RayCasting program in C, with the MiniLibX.</td>
+		<td>Soon</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=c" height="32px">
+		</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/panda2742/rustlings">rustlings</td>
 		<td>My personal progression on Rust learning exercises.</td>
 		<td>-</td>

@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything related to low-level; I'd love learning it too. :)**
 
-- ⚡ Fun fact **I am learning how to speak Japanese.**
+- ⚡ Fun fact **I am learning Japanese and training for JLPT N2.**
 
 <h3 align="left">Languages/Frameworks/Libraries:</h3>
 

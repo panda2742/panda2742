@@ -11,7 +11,7 @@ jobs:
     name: readme update
     runs-on: ubuntu-latest
     steps:
-      - uses: daoch4n/waka-jp@master
+      - uses: daoch4n/github-readme-stats@master
         with:
           LOCALE: "ja_JP"
           COMMIT_BY_ME: "False"

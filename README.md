@@ -1,21 +1,21 @@
 <a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/Lvl 4 (09%25)/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=panda2742&label=Profile%20views&color=0e75b6&style=flat" alt="panda2742" />
 
-<h3 align="left">Languages/Frameworks/Libraries:</h3>
+<h3 align="left">➙ Languages/Frameworks/Libraries</h3>
 
 <div align="left">
 	<img alt="github-snake" src="https://skillicons.dev/icons?i=c,cpp,css,discordjs,express,flask,html,js,nestjs,nuxtjs,py,regex,rust,sass,ts,vue&perline=50" height="50px">
 </div>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">➙ Tools</h3>
 
 <div align="left">
-	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,discord,docker,figma,git,grafana,linux,mongodb,nodejs,npm,pnpm,postgres,postman&perline=50" height="40px">
+	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,discord,docker,figma,git,grafana,linux,mongodb,nodejs,npm,pnpm,postgres,postman&perline=50" height="50px">
 </div>
 
----
-
-<h3 align="center">Where are my lines of code?</h3>
+<details>
+	<summary><h3 align="center">Where are my lines of code?</h3></summary>
+	<br>
 
 <table>
 	<tr>
@@ -145,8 +145,7 @@
 		</td>
 	</tr>
 </table>
-
-<br clear="both">
+</details>
 
 <details>
 	<summary><h3>Click here to see magic.</h3></summary>

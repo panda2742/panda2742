@@ -1,20 +1,6 @@
 <a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/Lvl 4 (09%25)/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=panda2742&label=Profile%20views&color=0e75b6&style=flat" alt="panda2742" />
 
-<h1 align="center">Hi 👋, I'm Panda</h1>
-
-<p align="left">I love learning new things and coding any kind of project. I am really interested in system programming, kernel development, low-level programming, scripting, and many other things. I used to be a web developer for around two years before giving it up definitely. I am a 42 School student.</p>
-
-- 🔭 I’m currently working on C++ Modules.
-
-- 🌱 I’m currently learning **C, C++ and Rust**
-
-- 👨‍💻 All of my projects are available here: [./repositories](https://github.com/panda2742/repositories)
-
-- 💬 Ask me about **anything related to low-level; I'd love learning it too. :)**
-
-- ⚡ Fun fact **I am learning Japanese and training for JLPT N2.**
-
 <h3 align="left">Languages/Frameworks/Libraries:</h3>
 
 <div align="left">

@@ -152,7 +152,7 @@
 	<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C435%20hrs%203%20mins-blue)
 
 **私はアーリーの🐤** 
 
@@ -203,7 +203,7 @@ Mac                      33 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/06/2025 18:14:20 UTC
+ Last Updated on 13/06/2025 00:48:20 UTC
 <!--END_SECTION:waka-->
 </details>
 

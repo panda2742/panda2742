@@ -137,6 +137,14 @@
 		</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/panda2742/42-cpp_05">42 CPP Module 05</a></td>
+		<td>Repetition, Exceptions, try and catch.</td>
+		<td>Soon</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=cpp" height="32px">
+		</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/panda2742/rustlings">rustlings</td>
 		<td>My personal progression on Rust learning exercises.</td>
 		<td>-</td>

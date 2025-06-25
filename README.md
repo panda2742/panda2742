@@ -1,21 +1,72 @@
 <a href="https://profile.intra.42.fr/users/ehosta"><img src="https://badgen.net/badge/Lvl 4 (83%25)/ehosta/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=panda2742&label=Profile%20views&color=0e75b6&style=flat" alt="panda2742" />
 
-<h3 align="left">➙ Languages/Frameworks/Libraries</h3>
-
 <div align="left">
+	<h3 align="left">➙ Languages/Frameworks/Libraries</h3>
 	<img alt="github-snake" src="https://skillicons.dev/icons?i=c,cpp,css,discordjs,express,flask,html,js,nestjs,nuxtjs,py,regex,rust,sass,ts,vue&perline=50" height="50px">
 </div>
 
-<h3 align="left">➙ Tools</h3>
-
 <div align="left">
+	<h3 align="left">➙ Tools</h3>
 	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,discord,docker,figma,git,grafana,linux,mongodb,nodejs,npm,pnpm,postgres,postman&perline=50" height="50px">
 </div>
 
-<details>
-	<summary><h3 align="center">Where are my lines of code?</h3></summary>
-	<br>
+<br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C458%20hrs%2042%20mins-blue)
+
+**私はアーリーの🐤** 
+
+```text
+🌞 午前                     359 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+🌆 昼間                     853 commits         █████████████░░░░░░░░░░░░   50.29 % 
+🌃 夕方                     432 commits         ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+🌙 夜                      52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+```
+📅 **私は 木曜日 が最も生産的だ** 
+
+```text
+月曜日                      263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+火曜日                      296 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+水曜日                      279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+木曜日                      323 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+金曜日                      263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+土曜日                      139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+日曜日                      133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+```
+
+
+📊 **今週はこれに時間を費やしている** 
+
+```text
+💬 言語: 
+C++                      6 hrs 15 mins       █████████████████░░░░░░░░   66.26 % 
+YAML                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Makefile                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+
+🔥 コードエディタ: 
+VS Code                  9 hrs 26 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 企画: 
+42-cpp_05                6 hrs 45 mins       ██████████████████░░░░░░░   71.51 % 
+42-cub3d                 2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+42-libasm                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+jowagner                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+abidolet                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 オペレーティングシステム: 
+Linux                    8 hrs 35 mins       ███████████████████████░░   90.99 % 
+Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+```
+
+
+ Last Updated on 25/06/2025 06:16:12 UTC
+<!--END_SECTION:waka-->
+
+---
 
 <table>
 	<tr>
@@ -153,65 +204,7 @@
 		</td>
 	</tr>
 </table>
-</details>
 
-<details>
-	<summary><h3>Click here to see magic.</h3></summary>
-	<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C458%20hrs%2042%20mins-blue)
-
-**私はアーリーの🐤** 
-
-```text
-🌞 午前                     359 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-🌆 昼間                     853 commits         █████████████░░░░░░░░░░░░   50.29 % 
-🌃 夕方                     432 commits         ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-🌙 夜                      52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-```
-📅 **私は 木曜日 が最も生産的だ** 
-
-```text
-月曜日                      263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-火曜日                      296 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-水曜日                      279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-木曜日                      323 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-金曜日                      263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-土曜日                      139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-日曜日                      133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-```
-
-
-📊 **今週はこれに時間を費やしている** 
-
-```text
-💬 言語: 
-C++                      6 hrs 15 mins       █████████████████░░░░░░░░   66.26 % 
-YAML                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Makefile                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-
-🔥 コードエディタ: 
-VS Code                  9 hrs 26 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 企画: 
-42-cpp_05                6 hrs 45 mins       ██████████████████░░░░░░░   71.51 % 
-42-cub3d                 2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-42-libasm                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-jowagner                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-abidolet                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 オペレーティングシステム: 
-Linux                    8 hrs 35 mins       ███████████████████████░░   90.99 % 
-Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-```
-
-
- Last Updated on 25/06/2025 06:16:12 UTC
-<!--END_SECTION:waka-->
-</details>
 
 <div align="left">
 	<picture align="left">

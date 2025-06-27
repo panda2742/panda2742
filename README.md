@@ -196,6 +196,22 @@ Mac                      52 mins             ██░░░░░░░░░�
 		</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/panda2742/42-cpp_06">42 CPP Module 06</a></td>
+		<td>Let's discover casting in C++.</td>
+		<td>Soon</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=cpp" height="32px">
+		</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/panda2742/42-libasm">42-libasm</a></td>
+		<td>Assembly yourself! Let's discover and be familiar Assembly language with this project.</td>
+		<td>Soon</td>
+		<td>
+			Assembly
+		</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/panda2742/rustlings">rustlings</td>
 		<td>My personal progression on Rust learning exercises.</td>
 		<td>-</td>

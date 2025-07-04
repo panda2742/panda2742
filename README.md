@@ -3,12 +3,12 @@
 
 <div align="left">
 	<h3 align="left">➙ Languages/Frameworks/Libraries</h3>
-	<img alt="github-snake" src="https://skillicons.dev/icons?i=c,cpp,css,discordjs,express,flask,html,js,nestjs,nuxtjs,py,regex,rust,sass,ts,vue&perline=50" height="50px">
+	<img alt="github-snake" src="https://skillicons.dev/icons?i=c,cpp,rust,flask,py,ts,js,sass,css,html,vue,nestjs,nuxtjs,express,discordjs,regex&perline=50" height="50px">
 </div>
 
 <div align="left">
 	<h3 align="left">➙ Tools</h3>
-	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,discord,docker,figma,git,grafana,linux,mongodb,nodejs,npm,pnpm,postgres,postman&perline=50" height="50px">
+	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,linux,git,docker,grafana,mongodb,postgres,nodejs,npm,pnpm,postman,figma,discord&perline=50" height="50px">
 </div>
 
 <br>

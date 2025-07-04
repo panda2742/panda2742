@@ -206,6 +206,14 @@ Mac                      7 hrs 29 mins       ███████████�
 		</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/panda2742/42-cpp_07">42 CPP Module 07</a></td>
+		<td>It is all about templates.</td>
+		<td>Soon</td>
+		<td>
+			<img align="left" alt="github-snake" src="https://skillicons.dev/icons?i=cpp" height="32px">
+		</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/panda2742/42-libasm">42-libasm</a></td>
 		<td>Assembly yourself! Let's discover and be familiar Assembly language with this project.</td>
 		<td>Soon</td>

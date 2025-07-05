@@ -14,7 +14,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C481%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C486%20hrs%2042%20mins-blue)
 
 **私はアーリーの🐤** 
 
@@ -41,30 +41,31 @@
 
 ```text
 💬 言語: 
-C                        6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
-Vue.js                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Makefile                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-SCSS                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-C++                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+C                        6 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
+C++                      4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Vue.js                   4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+SCSS                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Makefile                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 コードエディタ: 
-VS Code                  17 hrs 11 mins      ████████████████████████░   96.98 % 
-Terminal                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+VS Code                  20 hrs 11 mins      ████████████████████████░   97.16 % 
+Terminal                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Figma                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 企画: 
-smartlab-front           6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.17 % 
-42-cub3d                 5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-42-libasm                4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-42-cpp_06                1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-smartlab                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+smartlab-front           6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
+42-cub3d                 6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.86 % 
+42-cpp_07                3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+42-libasm                2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+42-cpp_06                1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 💻 オペレーティングシステム: 
-Linux                    10 hrs 14 mins      ██████████████░░░░░░░░░░░   57.79 % 
-Mac                      7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
+Linux                    13 hrs 59 mins      █████████████████░░░░░░░░   67.32 % 
+Mac                      6 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
 ```
 
 
- Last Updated on 05/07/2025 00:46:19 UTC
+ Last Updated on 05/07/2025 06:13:55 UTC
 <!--END_SECTION:waka-->
 (Translated by me here: https://github.com/panda2742/waka-readme-stats)
 

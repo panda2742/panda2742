@@ -14,7 +14,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C492%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C486%20hrs%2042%20mins-blue)
 
 **私はアーリーの🐤** 
 
@@ -65,7 +65,7 @@ Mac                      6 hrs 47 mins       ████████░░░�
 ```
 
 
- Last Updated on 05/07/2025 18:12:50 UTC
+ Last Updated on 06/07/2025 00:55:07 UTC
 <!--END_SECTION:waka-->
 (Translated by me here: https://github.com/panda2742/waka-readme-stats)
 

@@ -10,11 +10,3 @@
 	<h3 align="left">➙ Tools</h3>
 	<img alt="github-snake" src="https://skillicons.dev/icons?i=bash,linux,git,docker,grafana,mongodb,postgres,nodejs,npm,pnpm,postman,figma,discord&perline=50" height="50px">
 </div>
-
-<div align="left">
-	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="800px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="800px">
-		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="800px">
-	</picture>
-</div>

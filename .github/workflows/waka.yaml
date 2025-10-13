@@ -6,6 +6,9 @@ on:
   
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: readme update
@@ -15,7 +18,7 @@ jobs:
         with:
           COMMIT_BY_ME: "True"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"

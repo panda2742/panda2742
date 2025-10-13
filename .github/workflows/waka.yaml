@@ -11,9 +11,8 @@ jobs:
     name: readme update
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@V3
+      - uses: anmol098/waka-readme-stats@master
         with:
-          LOCALE: "en_EN"
           COMMIT_BY_ME: "True"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}

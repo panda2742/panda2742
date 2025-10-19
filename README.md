@@ -10,11 +10,22 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Go, with my current project [🌀 **SpinUp**](https://github.com/SpinUp-CLI)<br>🎲 I also am a lover of language learning. I speak **French**, **English**, **Japanese** and **Korean** soon.<br>📩 Want to reach me? [Send me an email](mailto:elouannhosta.pro@gmail.com).</p>
+<p align="left">
+  ✨ Creating bugs since 2021<br>📚 I'm currently learning Go, with my current project <a href="https://github.com/SpinUp-CLI"><strong>🌀 SpinUp</strong></a>.<br>
+  🎲 I also am a lover of language learning. I speak <strong>French</strong>, <strong>English</strong>, <strong>Japanese</strong> and <strong>Korean</strong> soon.<br>
+  📩 Want to reach me? <a href="mailto:elouannhosta.pro@gmail.com">Send me an email</a>.</p>
 
 ###
 
 <h2 align="left">I code with</h2>
+
+<h3 align="left">Languages & frameworks</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=flask,vuejs,nuxt,go,docker,cpp,c,bash,ts,js,scss,python,rust&theme=dark&perline=15)](https://skillicons.dev)
+
+<h3 align="left">Tools and environments</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,vim,linux,apple,git,github,gitlab&theme=dark&perline=15)](https://skillicons.dev)
 
 ###
 

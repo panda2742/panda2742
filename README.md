@@ -36,3 +36,10 @@
 </picture>
 
 ###
+
+<details>
+  <summary>Wants more stats?</summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>

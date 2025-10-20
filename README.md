@@ -21,11 +21,11 @@
 
 <h3 align="left">Languages & frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flask,vuejs,nuxt,go,docker,cpp,c,bash,ts,js,scss,python,rust&theme=dark&perline=15)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=flask,vuejs,nuxt,go,docker,cpp,c,bash,ts,js,scss,python,rust&theme=dark&perline=15)
 
 <h3 align="left">Tools and environments</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,vim,linux,apple,git,github,gitlab&theme=dark&perline=15)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=neovim,vscode,vim,linux,apple,git,github,gitlab&theme=dark&perline=15)
 
 ###
 

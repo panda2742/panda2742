@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Panda aka Elouann, and I am a software developer. I currently study at 42 School, working on Inception/webserv.</p>
+<p align="left">My name is Panda, and I am a software developer. I currently study at 42 School, working on Inception/webserv.</p>
 
 ###
 

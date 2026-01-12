@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages & frameworks</h3>
 
-![My Skills](https://skillicons.dev/icons?i=flask,vuejs,nuxt,go,docker,cpp,c,bash,ts,js,scss,python,rust&theme=dark&perline=15)
+![My Skills](https://skillicons.dev/icons?i=flask,vuejs,nuxt,nest,postgresql,go,docker,cpp,c,bash,ts,js,scss,python,rust&theme=dark&perline=15)
 
 <h3 align="left">Tools and environments</h3>
 

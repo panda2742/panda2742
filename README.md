@@ -11,9 +11,10 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2021<br>📚 I'm currently learning ASM, with my current project <a href="https://github.com/panda2742/brainfxcker"><strong>Brainfxcker</strong></a>.<br>
-  🎲 I also am a lover of language learning. I speak <strong>French</strong>, <strong>English</strong>, and <strong>Japanese</strong>.
-  📩 Want to reach me? <a href="mailto:elouannhosta.pro@gmail.com">Send me an email</a>.</p>
+  ⟡ Creating bugs since 2019.<br>
+  ⟡ Owner and main developer of <a href="https://github.com/HirumaBot/"><strong>Hiruma 昼間</strong></a>, a powerful Discord bot and game.<br>
+  ⟡ I'm currently learning <code>Assembly x86-64</code>, with my current project <a href="https://github.com/panda2742/brainfxcker"><strong>Brainfxcker</strong></a>.<br>
+  ⟡ Want to reach me? <a href="mailto:elouannhosta.pro@gmail.com">Send me an email</a>.</p>
 
 ###
 
@@ -21,7 +22,7 @@
 
 <h3 align="left">Languages & frameworks</h3>
 
-![My Skills](https://skillicons.dev/icons?i=flask,vuejs,nuxt,nest,postgresql,go,docker,cpp,c,bash,ts,js,scss,python,rust&theme=dark&perline=15)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,flask,vuejs,nuxt,nest,scss,python,rust,postgresql,go,docker,bash&theme=dark&perline=15)
 
 <h3 align="left">Tools and environments</h3>
 
@@ -38,7 +39,7 @@
 ###
 
 <details>
-  <summary>Want more stats?</summary>
+  <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C543%20hrs%2023%20mins-blue?style=flat)

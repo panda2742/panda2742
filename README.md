@@ -1,4 +1,4 @@
-<h1 align="left">Hey 🌺 What's up?</h1>
+<h1 align="left">Hey, what's up?</h1>
 
 ###
 
@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2021<br>📚 I'm currently learning Go, with my current project <a href="https://github.com/SpinUp-CLI"><strong>🌀 SpinUp</strong></a>.<br>
-  🎲 I also am a lover of language learning. I speak <strong>French</strong>, <strong>English</strong>, <strong>Japanese</strong> and <strong>Korean</strong> soon.<br>
+  ✨ Creating bugs since 2021<br>📚 I'm currently learning ASM, with my current project <a href="https://github.com/panda2742/brainfxcker"><strong>Brainfxcker</strong></a>.<br>
+  🎲 I also am a lover of language learning. I speak <strong>French</strong>, <strong>English</strong>, and <strong>Japanese</strong>.
   📩 Want to reach me? <a href="mailto:elouannhosta.pro@gmail.com">Send me an email</a>.</p>
 
 ###

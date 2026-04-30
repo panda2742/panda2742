@@ -38,7 +38,7 @@
 ###
 
 <details>
-  <summary>Wants more stats?</summary>
+  <summary>Want more stats?</summary>
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C543%20hrs%2023%20mins-blue?style=flat)

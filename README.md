@@ -42,13 +42,13 @@
   <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C653%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C655%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 89.6 kB Used in GitHub's Storage 
  > 
-> 🏆 724 Contributions in the Year 2026
+> 🏆 725 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,46 +56,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                463 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-🌆 Daytime                1400 commits        ███████████░░░░░░░░░░░░░░   43.59 % 
-🌃 Evening                1028 commits        ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌙 Night                  321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Tuesday                  571 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Wednesday                574 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Thursday                 458 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Friday                   505 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Saturday                 374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Sunday                   230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               21 hrs 41 mins      ██████████████████░░░░░░░   70.36 % 
-JSON                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-shell script             1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Prisma                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-🐱‍💻 Projects: 
-hiruma                   30 hrs 32 mins      █████████████████████████   99.07 % 
-zed                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-
-💻 Operating System: 
-Linux                    27 hrs 54 mins      ███████████████████████░░   90.52 % 
-Mac                      2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-```
-
 
 <!--END_SECTION:waka-->
 </details>

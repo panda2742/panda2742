@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-  ⟡ Creating bugs since 2018.<br>
-  ⟡ Owner and main developer of <a href="https://github.com/HirumaBot/"><strong>Hiruma 昼</strong></a>, a powerful Discord bot and game.<br>
-  ⟡ I'm currently learning <code>Assembly x86-64</code>, with my current project <a href="https://github.com/panda2742/brainfxcker"><strong>Brainfxcker</strong></a>.<br>
-  ⟡ Want to reach me? <a href="mailto:elouannhosta.pro@gmail.com">Send me an email</a>.</p>
+  ・Creating bugs since 2018.<br>
+  ・Owner and main developer of <a href="https://github.com/HirumaBot/"><strong>Hiruma 昼</strong></a>, a powerful Discord bot and game.<br>
+  ・I'm currently learning <code>Assembly x86-64</code>, with my current project <a href="https://github.com/panda2742/brainfxcker"><strong>Brainfxcker</strong></a>.<br>
+  ・Want to reach me? <a href="mailto:elouannhosta.pro@gmail.com">Send me an email</a>.</p>
 
 ###
 

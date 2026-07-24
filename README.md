@@ -34,7 +34,7 @@
   <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C812%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C814%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,18 +51,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-🌆 Daytime                1771 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
-🌃 Evening                1372 commits        ████████░░░░░░░░░░░░░░░░░   33.53 % 
+🌞 Morning                498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+🌆 Daytime                1771 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
+🌃 Evening                1374 commits        ████████░░░░░░░░░░░░░░░░░   33.56 % 
 🌙 Night                  451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   644 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  730 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Wednesday                708 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Thursday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Monday                   644 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Tuesday                  730 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                708 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Friday                   600 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 Saturday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 Sunday                   343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
@@ -73,22 +73,21 @@ Sunday                   343 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        8 hrs 54 mins       █████████████████░░░░░░░░   69.43 % 
-TypeScript               2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-jsonc                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+C                        8 hrs 2 mins        ████████████████░░░░░░░░░   62.79 % 
+TypeScript               3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+jsonc                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 git ignore               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🐱‍💻 Projects: 
-hiruma                   2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-42-piscine_rushes        1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-zed                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+hiruma                   4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.47 % 
 intra-uuid-0fa869b7-d43e-37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-intra-uuid-82730be0-28fb-36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+intra-uuid-82730be0-28fb-36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+intra-uuid-1afaa8f5-129f-35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+intra-uuid-28887d51-9708-34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 💻 Operating System: 
-Linux                    11 hrs 28 mins      ██████████████████████░░░   89.48 % 
-Mac                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Linux                    12 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 

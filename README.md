@@ -34,7 +34,7 @@
   <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C814%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C815%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -73,21 +73,21 @@ Sunday                   343 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        8 hrs 2 mins        ████████████████░░░░░░░░░   62.79 % 
-TypeScript               3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-jsonc                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-git ignore               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+C                        8 hrs 2 mins        ████████████████░░░░░░░░░   62.17 % 
+TypeScript               3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.31 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+jsonc                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+git ignore               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 Projects: 
-hiruma                   4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.47 % 
-intra-uuid-0fa869b7-d43e-37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-intra-uuid-82730be0-28fb-36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-intra-uuid-1afaa8f5-129f-35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-intra-uuid-28887d51-9708-34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+hiruma                   4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.02 % 
+intra-uuid-0fa869b7-d43e-37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+intra-uuid-82730be0-28fb-36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+intra-uuid-1afaa8f5-129f-35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+zed                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 💻 Operating System: 
-Linux                    12 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 

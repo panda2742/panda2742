@@ -34,13 +34,13 @@
   <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C815%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C819%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 91.7 kB Used in GitHub's Storage 
  > 
-> 🏆 895 Contributions in the Year 2026
+> 🏆 898 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,20 +52,20 @@
 
 ```text
 🌞 Morning                498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-🌆 Daytime                1771 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
-🌃 Evening                1374 commits        ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌙 Night                  451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+🌆 Daytime                1774 commits        ███████████░░░░░░░░░░░░░░   43.30 % 
+🌃 Evening                1374 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
+🌙 Night                  451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   644 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Tuesday                  730 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                708 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Friday                   600 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Saturday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Sunday                   343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Monday                   644 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  730 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Wednesday                708 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Thursday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Friday                   600 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Sunday                   346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 
 
@@ -73,21 +73,21 @@ Sunday                   343 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        8 hrs 2 mins        ████████████████░░░░░░░░░   62.17 % 
-TypeScript               3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-jsonc                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-git ignore               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+C                        9 hrs 22 mins       ████████████████░░░░░░░░░   65.26 % 
+TypeScript               3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+jsonc                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+git ignore               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-hiruma                   4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.02 % 
-intra-uuid-0fa869b7-d43e-37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-intra-uuid-82730be0-28fb-36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-intra-uuid-1afaa8f5-129f-35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-zed                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+hiruma                   4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+42-piscine_rushes        1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+intra-uuid-0fa869b7-d43e-37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+intra-uuid-82730be0-28fb-36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+intra-uuid-1afaa8f5-129f-35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-Linux                    12 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 

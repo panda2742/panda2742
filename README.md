@@ -75,21 +75,21 @@ Sunday                   348 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        9 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.51 % 
-TypeScript               6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.08 % 
-Prisma                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-jsonc                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+C                        9 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.84 % 
+TypeScript               6 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
+Prisma                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+jsonc                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🐱‍💻 Projects: 
-hiruma                   8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.47 % 
-42-piscine_rushes        7 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.99 % 
-intra-uuid-d5bc2acc-759c-40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-intra-uuid-dae9abed-1149-35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-intra-uuid-c724193f-1112-34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+hiruma                   8 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
+42-piscine_rushes        7 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
+intra-uuid-d5bc2acc-759c-40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+intra-uuid-dae9abed-1149-35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+intra-uuid-c724193f-1112-34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Linux                    18 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

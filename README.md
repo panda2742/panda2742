@@ -34,6 +34,10 @@
   <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C846%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2033%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 91.7 kB Used in GitHub's Storage 
@@ -46,6 +50,54 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌆 Daytime                1653 commits        ███████████░░░░░░░░░░░░░░   44.53 % 
+🌃 Evening                1203 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+🌙 Night                  385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Tuesday                  662 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Thursday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Saturday                 416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Sunday                   309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               10 hrs 3 mins       ███████████████░░░░░░░░░░   61.62 % 
+C                        2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Makefile                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+
+🐱‍💻 Projects: 
+hiruma                   11 hrs 29 mins      ██████████████████░░░░░░░   70.36 % 
+intra-uuid-9137ee03-ba7c-58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+intra-uuid-0d48d868-2e9f-49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+intra-uuid-7a67c36a-fe38-44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+zed                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+
+💻 Operating System: 
+Linux                    16 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 </details>

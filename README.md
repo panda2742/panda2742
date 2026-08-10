@@ -40,9 +40,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 91.7 kB Used in GitHub's Storage 
+> 📦 91.8 kB Used in GitHub's Storage 
  > 
-> 🏆 948 Contributions in the Year 2026
+> 🏆 952 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,21 +53,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-🌆 Daytime                1653 commits        ███████████░░░░░░░░░░░░░░   44.52 % 
-🌃 Evening                1204 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
-🌙 Night                  385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌞 Morning                472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌆 Daytime                1656 commits        ███████████░░░░░░░░░░░░░░   44.54 % 
+🌃 Evening                1205 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+🌙 Night                  385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  662 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Thursday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Friday                   547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Sunday                   309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Monday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Tuesday                  662 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Thursday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Friday                   547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Sunday                   309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 ```
 
 
@@ -75,22 +75,22 @@ Sunday                   309 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 9 mins        ███████████████░░░░░░░░░░   59.24 % 
-C                        2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Makefile                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-jsonc                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               6 hrs 13 mins       ██████████████░░░░░░░░░░░   54.38 % 
+C                        2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Makefile                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+make                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+jsonc                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-hiruma                   8 hrs 49 mins       ████████████████░░░░░░░░░   64.16 % 
-intra-uuid-9137ee03-ba7c-58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-intra-uuid-0d48d868-2e9f-49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-intra-uuid-7a67c36a-fe38-44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-zed                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+hiruma                   6 hrs 52 mins       ███████████████░░░░░░░░░░   59.99 % 
+intra-uuid-9137ee03-ba7c-58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+intra-uuid-0d48d868-2e9f-49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+intra-uuid-7a67c36a-fe38-44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+intra-uuid-80489211-779b-28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-Linux                    13 hrs 38 mins      █████████████████████████   99.19 % 
-Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Linux                    11 hrs 20 mins      █████████████████████████   99.03 % 
+Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 🤖 **AI Coding This Week** 

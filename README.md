@@ -75,22 +75,21 @@ Sunday                   309 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 31 mins       ██████████████░░░░░░░░░░░   56.15 % 
-C                        1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Makefile                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-shell script             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Prisma                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               2 hrs 41 mins       ████████████████████░░░░░   81.02 % 
+shell script             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Prisma                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+jsonc                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+make                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🐱‍💻 Projects: 
-hiruma                   3 hrs 31 mins       ██████████████░░░░░░░░░░░   56.25 % 
-intra-uuid-9137ee03-ba7c-58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-intra-uuid-7a67c36a-fe38-44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-ft_transcendance         31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-intra-uuid-fd5f8bd5-b6e1-23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+hiruma                   2 hrs 41 mins       ████████████████████░░░░░   81.17 % 
+ft_transcendance         31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+zed                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    6 hrs 4 mins        ████████████████████████░   96.86 % 
-Mac                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Linux                    3 hrs 7 mins        ████████████████████████░   94.05 % 
+Mac                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 
 🤖 **AI Coding This Week** 

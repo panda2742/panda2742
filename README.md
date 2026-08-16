@@ -75,21 +75,20 @@ Sunday                   309 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ██████████████████░░░░░░░   72.85 % 
-shell script             11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-jsonc                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-make                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               27 mins             ███████████████░░░░░░░░░░   60.20 % 
+shell script             10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+make                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🐱‍💻 Projects: 
-hiruma                   1 hr 5 mins         ████████████████░░░░░░░░░   63.53 % 
-ft_transcendance         31 mins             ████████░░░░░░░░░░░░░░░░░   30.62 % 
-zed                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+ft_transcendance         31 mins             █████████████████░░░░░░░░   67.87 % 
+hiruma                   14 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        ██████████████████████░░░   88.49 % 
-Mac                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Linux                    45 mins             ████████████████████████░   97.81 % 
+Mac                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 🤖 **AI Coding This Week** 

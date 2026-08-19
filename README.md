@@ -34,7 +34,7 @@
   <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C848%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C848%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2033%20mins-blue?style=flat)
 
@@ -75,19 +75,17 @@ Sunday                   309 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               27 mins             ███████████████░░░░░░░░░░   60.18 % 
-shell script             10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-make                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Markdown                 18 mins             ██████████████░░░░░░░░░░░   55.98 % 
+TypeScript               10 mins             ████████░░░░░░░░░░░░░░░░░   30.54 % 
+JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🐱‍💻 Projects: 
-ft_transcendance         31 mins             █████████████████░░░░░░░░   67.83 % 
-hiruma                   14 mins             ████████░░░░░░░░░░░░░░░░░   32.17 % 
+game-design              18 mins             ██████████████░░░░░░░░░░░   55.98 % 
+hiruma                   14 mins             ███████████░░░░░░░░░░░░░░   44.02 % 
 
 💻 Operating System: 
-Linux                    45 mins             ████████████████████████░   97.75 % 
-Mac                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

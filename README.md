@@ -34,7 +34,7 @@
   <summary>Are you a stalker?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C848%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C850%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2033%20mins-blue?style=flat)
 
@@ -42,7 +42,7 @@
 
 > 📦 91.8 kB Used in GitHub's Storage 
  > 
-> 🏆 958 Contributions in the Year 2026
+> 🏆 959 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -54,20 +54,20 @@
 
 ```text
 🌞 Morning                472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-🌆 Daytime                1663 commits        ███████████░░░░░░░░░░░░░░   44.64 % 
-🌃 Evening                1205 commits        ████████░░░░░░░░░░░░░░░░░   32.35 % 
-🌙 Night                  385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+🌆 Daytime                1664 commits        ███████████░░░░░░░░░░░░░░   44.66 % 
+🌃 Evening                1205 commits        ████████░░░░░░░░░░░░░░░░░   32.34 % 
+🌙 Night                  385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 Tuesday                  668 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 Thursday                 545 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Friday                   547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Friday                   548 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Sunday                   309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Sunday                   309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 
 
@@ -75,17 +75,21 @@ Sunday                   309 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 mins             ██████████████░░░░░░░░░░░   55.98 % 
-TypeScript               10 mins             ████████░░░░░░░░░░░░░░░░░   30.54 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+R                        57 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
+C                        33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🐱‍💻 Projects: 
-game-design              18 mins             ██████████████░░░░░░░░░░░   55.98 % 
-hiruma                   14 mins             ███████████░░░░░░░░░░░░░░   44.02 % 
+42-computorv1            57 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
+42-libasm                36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+hiruma                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+game-design              18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+brainfxcker              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
